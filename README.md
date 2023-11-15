@@ -12,6 +12,8 @@ The data being fed in could have been cleaned up better and filtered out more. T
 
 The amount of iterations total was 2778 and the training took about 2 hours on a M1 Macbook Pro with 16gb of ram
 
+The trained data was not saved/loaded from a directory so every time you restart the program the program has to retrain the data. This can and should be improved
+
 Tried to run this on google colab but ran into issues getting dependencies to install properly 
 
 ## What was learned
