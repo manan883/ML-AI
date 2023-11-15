@@ -1,7 +1,9 @@
 # ML-AI
 ---
 The llm utilizes the python librarys:
+
   dataset to load the convo_ai form HuggingFace's datasets
+  
   transformers: to utilize the gpt2 model to train with pre loaded weights
 
 ## Issues
