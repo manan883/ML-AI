@@ -25,3 +25,5 @@ Learn about attention masks and pad_tokens to be able to enhance the training
 
 If possible try training a largest set of data by utilizing google colab
 
+
+![image](https://github.com/manan883/ML-AI/assets/55415553/586d9d04-0d05-413b-8ab7-7344167fce2a)
